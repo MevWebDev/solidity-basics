@@ -130,7 +130,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"SimpleStorage.sol": "SimpleStorage"
+			"contracts/StorageFactory.sol": "SimpleStorage"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -144,12 +144,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"SimpleStorage.sol": {
-			"keccak256": "0xad9d9044de076a1dfbbfb5250457ccdbd41694838806ad09256eba3e017c16d1",
+		"contracts/StorageFactory.sol": {
+			"keccak256": "0xa2b63635c927442e70cd97d169eed6e9e2e5e508f8caf1657fb22c088bb0c589",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://76d3c0656265e363a62cf846b1f6b2874c0aecf2793df28f690a705f5e1779cc",
-				"dweb:/ipfs/QmewZxAGfyUoucEaCak19jz4PFYwTwZKUyd9h3BQDfAzxG"
+				"bzz-raw://4678c400e27ea2e673f5b1c158932b260a2f014778e65e2ebdeec3d7738727e8",
+				"dweb:/ipfs/QmPixbt9Pvz1iQ6JZWHRCussn22bwQAZD5MxpU6eZMoBFn"
 			]
 		}
 	},
